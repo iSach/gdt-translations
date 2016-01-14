@@ -440,7 +440,7 @@ msgstr "Merci de votre collaboration."
 
 #. {0} topic name
 msgid "You have successfully researched {0}."
-msgstr "Recherche terminée: {0}."
+msgstr "Recherche terminée : {0}."
 
 #. heading
 msgid "Transaction complete"
@@ -452,8 +452,8 @@ msgid ""
 "If you want to play war games then transfer {0} to the enclosed location and we'll initiate sabotage.,\n"
 "Agent Blowfish"
 msgstr ""
-"Nous avons une offre très spéciale pour vous: nos agents ont récemment "
-"parvenus à obtenir l'accès à l'une partie des systèmes essentiels de l'un de "
+"Nous avons une offre très spéciale pour vous : nos agents sont récemment "
+"parvenus à obtenir l'accès à une partie des systèmes essentiels de l'un de "
 "vos concurrents.\n"
 "Si vous voulez les pénaliser, veuillez transferer {0} sur le compte indiqué "
 "et nous commencerons le sabotage.\n"
@@ -496,8 +496,8 @@ msgid ""
 "{1}, the CEO at {0} said, 'We would love to see more women in the game industry.'"
 msgstr ""
 "Nous avons eu vent que {0} a récemment parrainé une initiative très "
-"appréciée afin de voir d'avantage de femmes dans des emplois technologiques.\n"
-"{1}, le PDG de {0} a déclaré: « Nous souhaitons de tout cœur voir plus de "
+"appréciée afin de voir davantage de femmes dans des emplois technologiques.\n"
+"{1}, le PDG de {0} a déclaré : « Nous souhaitons de tout cœur voir plus de "
 "femmes dans l'industrie du jeu-vidéo.»"
 
 #. {0} game title
@@ -557,7 +557,7 @@ msgid ""
 "Boss, I've discovered that some really dedicated fans of {0} have created a fan game using a lot of the material from our game.\n"
 "They don't make any money with it and just seem to do it for fellow fans. Our legal advisors strongly suggest that we shouldn't allow this to go on. What do you want to do?"
 msgstr ""
-"Patron, j'ai découvert que des fans passionnés de {0} ont crée un jeu "
+"Patron, j'ai découvert que des fans passionnés de {0} ont créé un jeu "
 "amateur reprenant beaucoup d’éléments de notre jeu.\n"
 "Ils n'en tirent aucun profit et veulent juste faire ça pour la communauté. "
 "Nos conseillers juridiques nous suggèrent fortement d'y mettre un terme. Que "
@@ -565,7 +565,7 @@ msgstr ""
 
 #. decision action button
 msgid "Stop them"
-msgstr "Stoppez les"
+msgstr "Les stopper"
 
 #. decision action button
 msgid "Let them be"
@@ -763,8 +763,8 @@ msgstr ""
 
 msgid "We will give you {0} which should move you out of the danger zone but in return you have to commit to pay us {1} in a year's time."
 msgstr ""
-"Nous vous donnerons {0}, ce qui devrait sortir vos compte du rouge, mais en "
-"retour, vous vous engager à nous payer {1} d'ici un an."
+"Nous vous donnerons {0}, ce qui devrait sortir vos comptes du rouge, mais en "
+"retour, vous vous engagez à nous payer {1} d'ici un an."
 
 #. heading
 msgid "Bank offer"
@@ -898,22 +898,22 @@ msgid ">> Trial <<"
 msgstr ">> Démo <<"
 
 msgid "Tap to start game ..."
-msgstr "Appuyez sur une touche pour démarrer le jeu…"
+msgstr "Appuyez sur une touche pour démarrer le jeu..."
 
 msgid "Click to start game ..."
-msgstr "Cliquer pour démarrer le jeu ..."
+msgstr "Cliquer pour démarrer le jeu..."
 
 msgid "Starting game..."
-msgstr "Démarrage du jeu ..."
+msgstr "Démarrage du jeu..."
 
 msgid "Click to continue ..."
-msgstr "Cliquer pour continuer ..."
+msgstr "Cliquer pour continuer..."
 
 msgid "Starting ..."
-msgstr "Démarrage ..."
+msgstr "Démarrage..."
 
 msgid "Finishing ..."
-msgstr "Finition ..."
+msgstr "Finition..."
 
 #. research is completed, research name is added
 msgid "Completed: "
@@ -987,7 +987,7 @@ msgstr "J'aime votre travail"
 
 #. contractDescrFragment
 msgid "I am impressed by your talent"
-msgstr "Votre talent m'impressione"
+msgstr "Votre talent m'impressionne"
 
 #. contractDescrFragment
 msgid "I think you have potential"
@@ -6226,7 +6226,7 @@ msgid "Our fan base is big enough to make self-publishing {0} games viable. Unle
 msgstr ""
 "Notre nombre de fans est suffisant pour auto-publier des jeux {0} de façon "
 "viable. A moins qu'un éditeur ne nous donne de bons royalties, nous ferions "
-"mieux d'autopublier les jeux {0}"
+"mieux d'auto-publier les jeux {0}"
 
 msgid "35 years (recommended)"
 msgstr "35 ans (recommandé)"
@@ -6315,7 +6315,7 @@ msgid ""
 "What is your expectation regarding the success of {1}? Do you think that the game will be well received?"
 msgstr ""
 "{0}:\n"
-"Quel est votre sentiment sur le potentiel succès de {1} ? Pensez que le jeu "
+"Quel est votre sentiment sur le potentiel succès de {1} ? Pensez-vous que le jeu "
 "sera apprécié ?"
 
 msgid ""
