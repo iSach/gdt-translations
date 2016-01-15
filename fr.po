@@ -987,7 +987,7 @@ msgstr "J'aime votre travail"
 
 #. contractDescrFragment
 msgid "I am impressed by your talent"
-msgstr "Votre talent m'impressionne"
+msgstr "votre talent m'impressionne"
 
 #. contractDescrFragment
 msgid "I think you have potential"
@@ -1003,7 +1003,7 @@ msgstr ""
 "Salut,\n"
 "Je viens juste de terminer {0} et {1}.\n"
 "Mon travail consiste à conclure des contrats et nous pourrions utiliser vos "
-"compétences. Si à l'avenir vous êtes un peu à court de liquide, dites le moi "
+"compétences. Si à l'avenir vous êtes un peu à court de liquide, dites-le-moi "
 "et je verrai si nous avons du travail pour vous.\n"
 "Jason"
 
@@ -1030,10 +1030,10 @@ msgid ""
 "Jason{n}Large contracts have been unlocked."
 msgstr ""
 "Waouh, j'ai vu quelques photos de votre nouveau bureau ! Du matos d'avant-"
-"garde !↵\n"
+"garde !\n"
 "Je suis sûr que vous vous en sortez très bien, mais si vous avez besoin "
 "d'arrondir vos fins de mois, j'ai quelques gros boulots qui auraient besoin "
-"qu'on s'en occupe.↵\n"
+"qu'on s'en occupe.\n"
 "Jason{n}Les gros contrats ont été débloqués."
 
 msgid ""
@@ -1077,10 +1077,10 @@ msgid "Popular: New topics"
 msgstr "Populaire : Nouveaux sujets"
 
 msgid "Strong audience: "
-msgstr "Public cible: "
+msgstr "Public cible : "
 
 msgid "Trend: Strange combinations"
-msgstr "Tendance: Combinaisons insolites"
+msgstr "Tendance : Combinaisons insolites"
 
 msgid "It seems that the market has normalized again with no particular strong trends at the moment."
 msgstr "Le marché semble s'être stabilisé à nouveau sans tendance particulière."
@@ -1137,7 +1137,7 @@ msgstr "Nous avons été élus meilleur stand cette année ! Félicitations !"
 
 msgid "We made it into the top 100 conference attractions this year at place {0}."
 msgstr ""
-"Nous avons intégré le top 100 en nous classant {0}ème attraction de la "
+"Nous avons intégré le top 100 en nous classant {0}e attraction de la "
 "convention cette année."
 
 msgid "Our convention had {0} visitors this year!"
@@ -1268,7 +1268,7 @@ msgstr ""
 
 msgid "Following the massive success of the TES console there are now rumours circulating that Vena, another Japanese company, is planning to release a home gaming console on their own."
 msgstr ""
-"Suite à l'immense succès de la TES, la rumeur a commencé à circuler que "
+"A la suite de l'immense succès de la TES, la rumeur a commencé à circuler que "
 "Vena, une autre entreprise japonaise, prévoirait de sortir sa propre console "
 "de jeux."
 
@@ -1959,8 +1959,8 @@ msgstr "Jeu terminé"
 msgid "Congratulations. You have finished Game Dev Tycoon. We will now calculate your final score and show you some statistics. You may continue playing after that."
 msgstr ""
 "Félicitations. Vous avez terminé Game Dev Tycoon. Nous allons maintenant "
-"calculer votre score final, et vous montrer quelque statistiques. Vous "
-"pouvez continuer à jouer après ça."
+"calculer votre score final, et vous montrer quelques statistiques. Vous "
+"pourrez continuer à jouer après ça."
 
 #. heading
 msgid "Goal reached"
@@ -2487,7 +2487,7 @@ msgid "Interactive story"
 msgstr "Histoire interactive"
 
 msgid "Moral choices"
-msgstr "Choix éthiques"
+msgstr "Choix moraux"
 
 msgid "Immersive story telling"
 msgstr "Narration immersive"
@@ -4428,34 +4428,34 @@ msgid "{0} costs"
 msgstr "coûts {0}"
 
 msgid "Backlog: {0}"
-msgstr "Backlog: {0}"
+msgstr "Backlog : {0}"
 
 msgid "{0} not researched"
 msgstr "« {0} » non recherché"
 
 msgid "Min Score: {0}"
-msgstr "Score min : {0}"
+msgstr "Score min. : {0}"
 
 msgid "Game Size:"
 msgstr "Gabarit:"
 
 msgid "Target Audience:"
-msgstr "Public ciblé:"
+msgstr "Public ciblé :"
 
 msgid "Royalties: {0}%"
-msgstr "Royalties: {0}%"
+msgstr "Royalties : {0}%"
 
 msgid "Up-front Pay: {0}"
-msgstr "Acompte: {0}"
+msgstr "Acompte : {0}"
 
 msgid "Penalty: {0}"
-msgstr "Pénalités: {0}"
+msgstr "Pénalités : {0}"
 
 msgid " (no license)"
 msgstr " (pas la licence)"
 
 msgid "Pay: {0}"
-msgstr "Honoraires: {0}"
+msgstr "Honoraires : {0}"
 
 msgid "{0} weeks"
 msgstr "{0} semaines"
@@ -4506,49 +4506,49 @@ msgid "Engine does not support MMO."
 msgstr "Ce moteur ne prend pas en charge les MMO."
 
 msgid "Most expensive ({0}): {1}"
-msgstr "Le plus cher ({0}): {1}"
+msgstr "Le plus cher ({0}) : {1}"
 
 msgid "Most profitable ({0}): {1}"
-msgstr "Le plus rentable ({0}): {1}"
+msgstr "Le plus rentable ({0}) : {1}"
 
 msgid "Least profitable ({0}): {1}"
-msgstr "Le moins rentable ({0}): {1}"
+msgstr "Le moins rentable ({0}) : {1}"
 
 msgid "Most used topic ({0}): {1}"
-msgstr "Le thème le plus utilisé ({0}): {1}"
+msgstr "Le thème le plus utilisé ({0}) : {1}"
 
 msgid "Most used genre ({0}): {1}"
-msgstr "Le genre le plus utilisé ({0}): {1}"
+msgstr "Le genre le plus utilisé ({0}) : {1}"
 
 msgid "Researched topics: {0}"
-msgstr "Thèmes recherchés: {0}"
+msgstr "Thèmes recherchés : {0}"
 
 msgid "Total research completed: {0}"
-msgstr "Nombre total de recherches terminées: {0}"
+msgstr "Nombre total de recherches terminées : {0}"
 
 msgid "Design points generated: {0}"
-msgstr "Points de Design générés: {0}"
+msgstr "Points de Design générés : {0}"
 
 msgid "Technology points generated: {0}"
-msgstr "Points de Technologie générés: {0}"
+msgstr "Points de Technologie générés : {0}"
 
 msgid "Small games: {0}"
-msgstr "Petits jeux: {0}"
+msgstr "Petits jeux : {0}"
 
 msgid "Medium games: {0}"
-msgstr "Jeux moyens: {0}"
+msgstr "Jeux moyens : {0}"
 
 msgid "Large games: {0}"
-msgstr "Gros jeux: {0}"
+msgstr "Gros jeux : {0}"
 
 msgid "AAA games: {0}"
-msgstr "Jeux AAA: {0}"
+msgstr "Jeux AAA : {0}"
 
 msgid "Good games: {0}"
-msgstr "Bons jeux: {0}"
+msgstr "Bons jeux : {0}"
 
 msgid "Top hits: {0}"
-msgstr "Hits: {0}"
+msgstr "Hits : {0}"
 
 msgid "Publishers used: {0}"
 msgstr "Contrats d'édition: {0}"
@@ -4968,19 +4968,19 @@ msgid "Choose Save Slot"
 msgstr "Choisissez un emplacement de sauvegarde"
 
 msgid "Level:"
-msgstr "Niveau:"
+msgstr "Niveau :"
 
 msgid "Design:"
-msgstr "Design:"
+msgstr "Design :"
 
 msgid "Technology:"
-msgstr "Tech:"
+msgstr "Tech. :"
 
 msgid "Speed:"
-msgstr "Vitesse:"
+msgstr "Vitesse :"
 
 msgid "Research:"
-msgstr "Recherche:"
+msgstr "Recherche :"
 
 msgid "Create a new Engine"
 msgstr "Nouveau moteur"
@@ -5013,7 +5013,7 @@ msgid "Experience gained"
 msgstr "Expérience acquise"
 
 msgid "XP Bonus:"
-msgstr "Bonus d'XP:"
+msgstr "Bonus d'XP :"
 
 msgid "Release Game"
 msgstr "Publier"
@@ -5025,34 +5025,34 @@ msgid "Level Up!"
 msgstr "+1 Niveau !"
 
 msgid "Units Sold:"
-msgstr "Exemplaires vendus:"
+msgstr "Exemplaires vendus :"
 
 msgid "Costs:"
-msgstr "Coût:"
+msgstr "Coûts :"
 
 msgid "Income:"
-msgstr "Recettes:"
+msgstr "Recettes :"
 
 msgid "Profit:"
-msgstr "Bénéfice:"
+msgstr "Bénéfice :"
 
 msgid "Released:"
-msgstr "Date de sortie:"
+msgstr "Date de sortie :"
 
 msgid "Fans:"
-msgstr "Fans:"
+msgstr "Fans :"
 
 msgid "Avg. Review Score:"
-msgstr "Note moy. des critiques:"
+msgstr "Note moy. des critiques :"
 
 msgid "Top Sales Rank:"
-msgstr "Meilleur classement des ventes:"
+msgstr "Meilleur classement des ventes :"
 
 msgid "Do you really want to throw away this game?"
 msgstr "Voulez-vous vraiment détruire ce jeu ?"
 
 msgid "Note:"
-msgstr "Note:"
+msgstr "Note :"
 
 msgid "You do not lose the experience gained during development."
 msgstr "Vous ne perdrez pas l’expérience acquise pendant le développement."
@@ -5070,7 +5070,7 @@ msgid "All progress on the project will be"
 msgstr "Toute progression sur le projet sera"
 
 msgid "lost!"
-msgstr "Perdue !"
+msgstr "perdue !"
 
 msgid "Do you really want to overwrite this game?"
 msgstr "Souhaitez-vous réellement écraser ce jeu ?"
@@ -5579,7 +5579,7 @@ msgstr ""
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I just want to tell you that upon your recent 'request' from your legal department my project has shut down.{n}I poured a lot of effort into this and have always loved your company but I guarantee you that I shall not 'bother' nor support you ever again."
 msgstr ""
 "Salut, je suis Denise Ried la développeuse principale de {0}, notre fan "
-"game. J'aimerais juste vous dire que suite à la récente \"démarche\" de votre "
+"game. J'aimerais juste vous dire qu'à la suite de la récente \"démarche\" de votre "
 "service juridique mon projet s'est vu interrompu. {n}J'ai mis beaucoup "
 "d'efforts dans ce projet et j'ai toujours apprécié votre société mais je "
 "peux vous garantir que désormais je ne vous \"dérangerai\" et ne vous "
@@ -6165,7 +6165,7 @@ msgstr "relativement important"
 
 msgid "After a massive public backlash to the controversial features announced for the upcoming mBox One, Mirconoft has today published a letter outlining their change of plans. The mBox One will no longer require a constant internet connection and will not place restrictions on how games are sold or shared.{n}Clearly the different and much more popular strategies of companies like {0}, as well as vocal players themselves, have forced this change of direction."
 msgstr ""
-"Après une réaction massive du public suite à l'annonce controversée des "
+"Après une réaction massive du public à la suite de l'annonce controversée des "
 "caractéristiques pour la prochaine mBox One, Mirconoft a publié aujourd'hui "
 "une lettre décrivant leur changement de plans. Le mBox One ne nécessitera "
 "plus une connexion internet constante et ne se verra plus imposer des "
