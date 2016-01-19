@@ -1890,7 +1890,7 @@ msgstr "Les premiers tests indiquent que la {0}"
 
 msgid "'s build quality is excellent and will likely run for decades without issues."
 msgstr ""
-"est d'une qualité irréprochable, et qu'elle est construite pour durer des "
+" est d'une qualité irréprochable, et qu'elle est construite pour durer des "
 "décennies sans accroc."
 
 msgid "is of average build quality. Don't expect it to last forever but in general you should not see many issues."
